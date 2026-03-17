@@ -19,8 +19,6 @@ covering the business problem, findings, and recommendations.
 
 ## Projects
 
-## Projects
-
 ### [Uber NCR Ride Analytics]
 Analysing 150,000 ride bookings to identify where 38% of rides fail and quantify the revenue impact.
 
