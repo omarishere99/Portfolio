@@ -44,4 +44,4 @@ Page 2 includes an interactive what-if slicer modelling the profit uplift from r
 
 ## Full Case Study
 
-See [`superstore_case_study.docx`](./superstore_case_study.docx) for detailed findings and recommendations.
+See See [superstore_case_study.pdf](./Super%20Store%20Case%20Study/superstore_case_study.pdf) for detailed findings and recommendations. for detailed findings and recommendations.
