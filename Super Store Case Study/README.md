@@ -2,7 +2,7 @@
 
 **Tools:** Power BI, DAX  
 **Dataset:** 9,994 order lines, US retail, 2014–2017 — [source data](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
-**Live Dashboard:** [View on Power BI](#) ← replace with your published link
+**Live Dashboard:** [View on Power BI](https://app.fabric.microsoft.com/view?r=eyJrIjoiZmQ3MTU4NWEtNzk5Zi00YmZiLTk0NDAtZDEyZDBhOWZhYTUxIiwidCI6IjgyMTYwMGNjLWY1YzMtNDgxMC1hY2FkLWU2MWI4M2Q4YmE0ZiJ9) 
 
 ---
 
