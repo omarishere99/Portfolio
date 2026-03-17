@@ -34,4 +34,4 @@ Investigating why a growing retail business is losing margin — uncovering the 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/omar-omarb280)
+[LinkedIn]([https://www.linkedin.com/in/omar-omarb280](https://www.linkedin.com/in/omar-omar-b280/))
